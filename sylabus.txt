@@ -1,0 +1,10 @@
+Module 1: Overview
+Module 2: MID Server Overview
+Module 3: Running Discovery
+Module 4: Credentials and Behaviors
+Module 5: Phases, Probes, and Classifications
+Module 6: Application Mapping
+Module 7: MID Server Clusters
+Module 8: Custom Probes and Sensors
+Module 9: Horizontal Patterns
+Module 10: Configuration Management
